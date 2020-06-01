@@ -1,4 +1,4 @@
-# String
+# string
   需求描述:  
   
     变量 string="Bigdata process framework is Hadoop，Hadoop is an open source projec"，执行脚本后，打印输出string字符串变量，并给出用户以下选项：  
