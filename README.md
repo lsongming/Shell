@@ -2,9 +2,8 @@
 Shell 学习
 
 # String
-  需求描述：
-    变量string="Bigdata process framework is Hadoop，Hadoop is an open source projec" 执行脚本后，打印输出string字符串变量，并给出用户以下选项：  
-    
+  需求描述:  
+    变量string="Bigdata process framework is Hadoop，Hadoop is an open source projec" 执行脚本后，打印输出string字符串变量，并给出用户以下选项：      
     （1）、打印string长度  
     
     （2）、删除字符串中所有的Hadoop  
